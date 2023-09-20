@@ -1,0 +1,10 @@
+[
+    {
+        "name": "ansa",
+        "url": "https://www.ansa.it/sito/ansait_rss.xml"
+    },
+    {
+        "name": "corriere",
+        "url": "http://www.corriere.it/rss/homepage.xml"
+    }
+]
